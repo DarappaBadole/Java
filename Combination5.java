@@ -1,0 +1,8 @@
+interface Demo{
+
+}
+
+interface Hello{
+
+}
+
